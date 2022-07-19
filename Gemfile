@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'relax2'
-gem 'googleauth'
-gem 'pry-byebug'
+# Specify your gem's dependencies in relax2-androidmanagement.gemspec
+gemspec
