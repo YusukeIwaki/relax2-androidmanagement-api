@@ -2,6 +2,14 @@
 
 ## Usage
 
+### Installation
+
+```
+gem 'relax2-androidmanagement', git: 'https://github.com/YusukeIwaki/relax2-androidmanagement-api.git'
+```
+
+and then hit `bundle install --binstubs`.
+
 ### Configuration
 
 ```
